@@ -1,0 +1,4 @@
+def diff():
+    ...
+
+print(diff())
